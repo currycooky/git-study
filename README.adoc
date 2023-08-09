@@ -5,5 +5,5 @@ Curry Cooky <currycooky@qq.com>
 :toc-title: 目录
 
 == 独自使用Git常见场景
-=== link:独自使用Git常见场景/删除分支[删除分支]
-=== link:独自使用Git常见场景/修改message[修改message]
+=== link:独自使用Git常见场景/删除分支.adoc[删除分支]
+=== link:独自使用Git常见场景/修改message.adoc[修改message]
